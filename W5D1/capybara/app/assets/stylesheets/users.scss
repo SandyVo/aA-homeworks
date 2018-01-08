@@ -1,0 +1,32 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+
+form {
+  text-align: center;
+}
+
+
+label {
+  padding: 8px;
+}
+
+input {
+  padding: 5px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+input[type=submit] {
+  border-radius: 4px;
+  color: red;
+  font-weight: bold;
+  border: 2px solid red; 
+}
